@@ -93,6 +93,32 @@
       "used": true
     },
     {
+      "id": "morning-008",
+      "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/morning-008.jpg",
+      "slot": "morning",
+      "character": [
+        "よしもち"
+      ],
+      "text_on_image": "カーテン開けられたね、えらい／よしよし係",
+      "description": "よしもちがカーテンを開けて朝の光を浴びている。「カーテン開けられたね、えらい」",
+      "alt": "よしもちが窓のカーテンを開けて、朝の光の中でほほえんでいるイラスト。「カーテン開けられたね、えらい」と書いてある",
+      "created_at": "2026-11-17",
+      "used": false
+    },
+    {
+      "id": "morning-009",
+      "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/morning-009.jpg",
+      "slot": "morning",
+      "character": [
+        "ママもち"
+      ],
+      "text_on_image": "あったかいもの、飲んでいってね／よしよし係",
+      "description": "ママもちが湯気の立つマグカップを両手で差し出している。「あったかいもの、飲んでいってね」",
+      "alt": "紫のショールのママもちが湯気の立つマグカップを両手で差し出しているイラスト。「あったかいもの、飲んでいってね」と書いてある",
+      "created_at": "2026-11-17",
+      "used": false
+    },
+    {
       "id": "noon-001",
       "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/noon-001.jpg",
       "slot": "noon",
@@ -183,6 +209,35 @@
       "text_on_image": "開発日記／きょうも少しずつ／よしよし係",
       "description": "開発日記風。お世話係もちとよしもちがコルクボードのスケッチを見ている。「開発日記 きょうも少しずつ」",
       "alt": "お世話係もちとよしもちが、もちのスケッチを貼ったボードを見ているイラスト。「開発日記 きょうも少しずつ」と書いてある",
+      "created_at": "2026-11-17",
+      "used": false
+    },
+    {
+      "id": "noon-008",
+      "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/noon-008.jpg",
+      "slot": "noon",
+      "character": [
+        "お世話係もち"
+      ],
+      "text_on_image": "お昼、ひと休みできましたか？／よしよし係",
+      "description": "参加型。お世話係もちがレジャーシートでおにぎりを持ち「お昼、ひと休みできましたか？」と聞いている",
+      "alt": "ピンクの三角巾とエプロンのお世話係もちが、レジャーシートでおにぎりを持って首をかしげているイラスト。「お昼、ひと休みできましたか？」と書いてある",
+      "created_at": "2026-11-17",
+      "used": false
+    },
+    {
+      "id": "noon-009",
+      "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/noon-009.jpg",
+      "slot": "noon",
+      "character": [
+        "お世話係もち",
+        "よしもち",
+        "ギャルもち",
+        "ママもち"
+      ],
+      "text_on_image": "開発日記／今日のもちたちは、ごきげんです／よしよし係",
+      "description": "開発日記風。お世話係もちがノートを書き、うしろでよしもち・ギャルもち・ママもちが楽しそうにしている。「開発日記 今日のもちたちは、ごきげんです」",
+      "alt": "お世話係もちがノートに書いていて、うしろでよしもち、ギャルもち、ママもちがクッションの上で楽しそうにしているイラスト。「開発日記 今日のもちたちは、ごきげんです」と書いてある",
       "created_at": "2026-11-17",
       "used": false
     },
@@ -304,6 +359,58 @@
       "alt": "4コマ漫画。1コマ目、机でうなだれる人が「仕事でミスした…」。2コマ目、ギャルもちが飛びこんできて「え、話聞くし！」。3コマ目、ギャルもちが頭をなでて「気にできるの、まじめでえらすぎ」。4コマ目、少し笑う人にギャルもちが「ずっと味方だからねっ」",
       "created_at": "2026-11-17",
       "used": true
+    },
+    {
+      "id": "comic-003",
+      "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/comic-003.jpg",
+      "slot": "comic",
+      "character": [
+        "ママもち"
+      ],
+      "text_on_image": "①／つかれて動けない…／②／あらあら、おつかれさま／③／よくがんばったわね。よしよし／④／…あったかい／よしよし係",
+      "description": "4コマ漫画。つかれて動けない人のところへママもちが来て、毛布をかけて頭をなで「よくがんばったわね」。最後にあたたかいお茶で少しほっとする",
+      "alt": "4コマ漫画。1コマ目、ソファにもたれて座りこむ人が「つかれて動けない…」。2コマ目、ママもちが現れて「あらあら、おつかれさま」。3コマ目、ママもちが毛布をかけて頭をなでて「よくがんばったわね。よしよし」。4コマ目、毛布にくるまってお茶を持ち「…あったかい」",
+      "created_at": "2026-11-17",
+      "used": false
+    },
+    {
+      "id": "comic-004",
+      "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/comic-004.jpg",
+      "slot": "comic",
+      "character": [
+        "よしもち"
+      ],
+      "text_on_image": "①／眠れない…／②／ぼくもいっしょに起きてるよ／③／目を閉じるだけでえらいよ／④／…すぅ／よしよし係",
+      "description": "4コマ漫画。眠れない夜、よしもちがまくらもとに来て「いっしょに起きてるよ」。頭をなでて「目を閉じるだけでえらいよ」。最後にいっしょに眠る",
+      "alt": "4コマ漫画。1コマ目、暗い部屋のベッドで目を開けた人が「眠れない…」。2コマ目、よしもちがまくらから顔を出して「ぼくもいっしょに起きてるよ」。3コマ目、よしもちが頭をなでて「目を閉じるだけでえらいよ」。4コマ目、よしもちと並んで「…すぅ」と眠っている",
+      "created_at": "2026-11-17",
+      "used": false
+    },
+    {
+      "id": "comic-005",
+      "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/comic-005.jpg",
+      "slot": "comic",
+      "character": [
+        "ギャルもち"
+      ],
+      "text_on_image": "①／うまく話せなかった…／②／え、どした？聞くよ！／③／伝えようとしたの、えらいじゃん／④／…ありがと／よしよし係",
+      "description": "4コマ漫画。うまく話せなかった帰り道、ギャルもちが来て頭をなで「伝えようとしたの、えらいじゃん」。最後に少し笑って「…ありがと」",
+      "alt": "4コマ漫画。1コマ目、夕方の帰り道でうつむく人が「うまく話せなかった…」。2コマ目、ギャルもちが現れて「え、どした？聞くよ！」。3コマ目、ギャルもちが頭をなでて「伝えようとしたの、えらいじゃん」。4コマ目、少し笑って「…ありがと」",
+      "created_at": "2026-11-17",
+      "used": false
+    },
+    {
+      "id": "comic-006",
+      "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/comic-006.jpg",
+      "slot": "comic",
+      "character": [
+        "よしもち"
+      ],
+      "text_on_image": "①／やること多すぎる…／②／きみ、ずっとがんばってたね／③／ちょっと休んでもいいんだよ／④／…ひと息つこう／よしよし係",
+      "description": "4コマ漫画。やることが多すぎて机で固まる人のところへよしもちが来て、頭をなで「ちょっと休んでもいいんだよ」。最後にお茶でひと息つく",
+      "alt": "4コマ漫画。1コマ目、紙の山の机で「やること多すぎる…」。2コマ目、よしもちが机に乗って「きみ、ずっとがんばってたね」。3コマ目、よしもちが頭をなでて「ちょっと休んでもいいんだよ」。4コマ目、お茶を持って伸びをしながら「…ひと息つこう」",
+      "created_at": "2026-11-17",
+      "used": false
     }
   ]
 }
