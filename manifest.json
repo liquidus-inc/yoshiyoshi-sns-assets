@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24",
+  "updated_at": "2026-11-26",
   "images": [
     {
       "id": "morning-001",
@@ -184,6 +184,45 @@
       "used": false
     },
     {
+      "id": "morning-015",
+      "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/morning-015.jpg",
+      "slot": "morning",
+      "character": [
+        "ママもち"
+      ],
+      "text_on_image": "おはよう。ゆるめでいいのよ／よしよし係",
+      "description": "ママもちが朝の窓辺で小さな鉢植えに水をあげている。「おはよう。ゆるめでいいのよ」のひとこと",
+      "alt": "ママもちが朝の光の窓辺でじょうろを持ち、鉢植えに水をあげているイラスト。「おはよう。ゆるめでいいのよ」と書いてある",
+      "created_at": "2026-11-26",
+      "used": false
+    },
+    {
+      "id": "morning-016",
+      "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/morning-016.jpg",
+      "slot": "morning",
+      "character": [
+        "よしもち"
+      ],
+      "text_on_image": "深呼吸ひとつ、えらいね／よしよし係",
+      "description": "よしもちが朝の空気の中で目を閉じて深呼吸している。「深呼吸ひとつ、えらいね」のひとこと",
+      "alt": "よしもちが朝の外の空気の中で目を閉じ、大きく深呼吸しているイラスト。「深呼吸ひとつ、えらいね」と書いてある",
+      "created_at": "2026-11-26",
+      "used": false
+    },
+    {
+      "id": "morning-017",
+      "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/morning-017.jpg",
+      "slot": "morning",
+      "character": [
+        "ギャルもち"
+      ],
+      "text_on_image": "朝日あびたの、えらすぎ〜！／よしよし係",
+      "description": "ギャルもちが朝日の中で両手を広げて光をあびている。「朝日あびたの、えらすぎ〜！」のひとこと",
+      "alt": "ギャルもちが朝日の光の中で両手を広げ、うれしそうに光をあびているイラスト。「朝日あびたの、えらすぎ〜！」と書いてある",
+      "created_at": "2026-11-26",
+      "used": false
+    },
+    {
       "id": "noon-001",
       "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/noon-001.jpg",
       "slot": "noon",
@@ -361,6 +400,33 @@
       "used": false
     },
     {
+      "id": "noon-014",
+      "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/noon-014.jpg",
+      "slot": "noon",
+      "character": [
+        "お世話係もち"
+      ],
+      "text_on_image": "もちに言われたい言葉、どれ？／えらいね／おつかれさま／よしよし／よしよし係",
+      "description": "投票用。お世話係もちが3枚の札を見せて「もちに言われたい言葉、どれ？」と聞いている（えらいね・おつかれさま・よしよし）",
+      "alt": "お世話係もちが「えらいね」「おつかれさま」「よしよし」の3枚の札を持っているイラスト。上に「もちに言われたい言葉、どれ？」と書いてある",
+      "created_at": "2026-11-26",
+      "used": false
+    },
+    {
+      "id": "noon-015",
+      "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/noon-015.jpg",
+      "slot": "noon",
+      "character": [
+        "お世話係もち",
+        "よしもち"
+      ],
+      "text_on_image": "開発日記／もちたち、今日もまんまるです／よしよし係",
+      "description": "開発日記風。お世話係もちがやわらかいメジャーでよしもちのまるさを測っている。「開発日記 もちたち、今日もまんまるです」",
+      "alt": "お世話係もちがピンクのメジャーでよしもちのまるい体を測っているイラスト。「開発日記」「もちたち、今日もまんまるです」と書いてある",
+      "created_at": "2026-11-26",
+      "used": false
+    },
+    {
       "id": "night-001",
       "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/night-001.jpg",
       "slot": "night",
@@ -506,6 +572,32 @@
       "used": false
     },
     {
+      "id": "night-012",
+      "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/night-012.jpg",
+      "slot": "night",
+      "character": [
+        "ギャルもち"
+      ],
+      "text_on_image": "今日のがんばり、ここで終了〜！／よしよし係",
+      "description": "夜空に「今日のがんばり、ここで終了〜！」。下で星のステッキをふる小さなギャルもち",
+      "alt": "月と星のラベンダー色の夜空に「今日のがんばり、ここで終了〜！」の文字。下で小さなギャルもちが星のステッキをふってウインクしている",
+      "created_at": "2026-11-26",
+      "used": false
+    },
+    {
+      "id": "night-013",
+      "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/night-013.jpg",
+      "slot": "night",
+      "character": [
+        "ママもち"
+      ],
+      "text_on_image": "あったかくして、寝なさいね／よしよし係",
+      "description": "夜空に「あったかくして、寝なさいね」。下で雲の毛布を月にかけてあげる小さなママもち",
+      "alt": "月と星のラベンダー色の夜空に「あったかくして、寝なさいね」の文字。下で小さなママもちが、ふわふわの雲を毛布のように三日月にかけている",
+      "created_at": "2026-11-26",
+      "used": false
+    },
+    {
       "id": "comic-001",
       "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/comic-001.jpg",
       "slot": "comic",
@@ -634,6 +726,32 @@
       "alt": "4コマ漫画。1コマ目、肩を落とした人が「なんかもう、ぐったり…」。2コマ目、足もとによしもちが来て「よしよし、しにきたよ」。3コマ目、クッションに乗って背のびしても「よしよし…とどかない…」。4コマ目、人がしゃがんで「…しゃがむね」、よしもちが頭をなでて「ありがとう。よしよし」",
       "created_at": "2026-11-24",
       "used": true
+    },
+    {
+      "id": "comic-011",
+      "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/comic-011.jpg",
+      "slot": "comic",
+      "character": [
+        "よしもち"
+      ],
+      "text_on_image": "①／洗濯物、たたむ元気ない…／②／ぼく、手伝うよ／③／できない日もあるよね。よしよし／④／ぼくまで、たたまれちゃった／ふふっ／よしよし係",
+      "description": "4コマ漫画。洗濯物をたたむ元気がない人のところへよしもちが手伝いに来て、頭をなでて「できない日もあるよね」。最後はよしもちがタオルといっしょにたたまれてしまい、人がふふっと笑う",
+      "alt": "4コマ漫画。1コマ目、洗濯物の山の前で「洗濯物、たたむ元気ない…」。2コマ目、よしもちが現れて「ぼく、手伝うよ」。3コマ目、よしもちが頭をなでて「できない日もあるよね。よしよし」。4コマ目、タオルにたたまれたよしもちが「ぼくまで、たたまれちゃった」、人が「ふふっ」と笑う",
+      "created_at": "2026-11-26",
+      "used": false
+    },
+    {
+      "id": "comic-012",
+      "url": "https://raw.githubusercontent.com/liquidus-inc/yoshiyoshi-sns-assets/main/images/comic-012.jpg",
+      "slot": "comic",
+      "character": [
+        "ギャルもち"
+      ],
+      "text_on_image": "①／今日だれとも話してない…／②／え、あたしと話そ！／③／今日もおつかれ！よしよし〜／④／でね、でね〜！／…一週間分しゃべった／よしよし係",
+      "description": "4コマ漫画。だれとも話さなかった日にギャルもちが来て、頭をなでて「今日もおつかれ！」。最後はギャルもちのおしゃべりが止まらず、人は「…一週間分しゃべった」とほっこり",
+      "alt": "4コマ漫画。1コマ目、ソファでひとり「今日だれとも話してない…」。2コマ目、ギャルもちが現れて「え、あたしと話そ！」。3コマ目、ギャルもちが頭をなでて「今日もおつかれ！よしよし〜」。4コマ目、ギャルもちが「でね、でね〜！」と話し続け、人が満足そうに「…一週間分しゃべった」",
+      "created_at": "2026-11-26",
+      "used": false
     }
   ]
 }
